@@ -1,0 +1,14 @@
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\bin\Debug\net8.0\tpChauffeur.exe
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\bin\Debug\net8.0\tpChauffeur.deps.json
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\bin\Debug\net8.0\tpChauffeur.runtimeconfig.json
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\bin\Debug\net8.0\tpChauffeur.dll
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\bin\Debug\net8.0\tpChauffeur.pdb
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\obj\Debug\net8.0\tpChauffeur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\obj\Debug\net8.0\tpChauffeur.AssemblyInfoInputs.cache
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\obj\Debug\net8.0\tpChauffeur.AssemblyInfo.cs
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\obj\Debug\net8.0\tpChauffeur.csproj.CoreCompileInputs.cache
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\obj\Debug\net8.0\tpChauffeur.dll
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\obj\Debug\net8.0\refint\tpChauffeur.dll
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\obj\Debug\net8.0\tpChauffeur.pdb
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\obj\Debug\net8.0\tpChauffeur.genruntimeconfig.cache
+C:\Users\DEBROIZE\source\repos\tpChauffeur\tpChauffeur\obj\Debug\net8.0\ref\tpChauffeur.dll
